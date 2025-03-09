@@ -1,0 +1,39 @@
+ INFO  Accepting connections at http://localhost:8082
+ HTTP  3/9/2025 7:47:13 PM 172.20.0.1 GET /
+ HTTP  3/9/2025 7:47:13 PM 172.20.0.1 Returned 200 in 22 ms
+ HTTP  3/9/2025 7:47:13 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/9/2025 7:47:13 PM 172.20.0.1 Returned 200 in 3 ms
+ HTTP  3/9/2025 7:47:13 PM 172.20.0.1 GET /_expo/static/js/web/index-2bfd687525e78e136a31eff46382284f.js
+ HTTP  3/9/2025 7:47:13 PM 172.20.0.1 Returned 200 in 3 ms
+ HTTP  3/9/2025 7:47:14 PM 172.20.0.1 GET /assets/public/icosahedron.11c262abd4025206c20f716f2b5623fe.svg
+ HTTP  3/9/2025 7:47:14 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/9/2025 7:47:14 PM 172.20.0.1 GET /icosahedron.svg
+ HTTP  3/9/2025 7:47:14 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/9/2025 7:47:14 PM 172.20.0.1 GET /favicon.ico
+ HTTP  3/9/2025 7:47:14 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/9/2025 7:47:14 PM 172.20.0.1 GET /manifest.json
+ HTTP  3/9/2025 7:47:14 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/9/2025 7:47:14 PM 172.20.0.1 GET /pwa-192x192.png
+ HTTP  3/9/2025 7:47:14 PM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/9/2025 7:48:38 PM 172.20.0.1 GET /
+ HTTP  3/9/2025 7:48:38 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/9/2025 7:48:38 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/9/2025 7:48:38 PM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/9/2025 7:48:38 PM 172.20.0.1 GET /_expo/static/js/web/index-2bfd687525e78e136a31eff46382284f.js
+ HTTP  3/9/2025 7:48:38 PM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/9/2025 7:48:38 PM 172.20.0.1 GET /assets/public/icosahedron.11c262abd4025206c20f716f2b5623fe.svg
+ HTTP  3/9/2025 7:48:38 PM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/9/2025 7:48:38 PM 172.20.0.1 GET /assets/public/icosahedron.11c262abd4025206c20f716f2b5623fe.svg
+ HTTP  3/9/2025 7:48:38 PM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/9/2025 7:50:42 PM 172.20.0.1 GET /
+ HTTP  3/9/2025 7:50:42 PM 172.20.0.1 Returned 200 in 3 ms
+ HTTP  3/9/2025 7:50:42 PM 172.20.0.1 GET /_expo/static/js/web/index-c58b7c879ddb68ac4e87b3609e7a9467.js
+ HTTP  3/9/2025 7:50:42 PM 172.20.0.1 Returned 200 in 6 ms
+ HTTP  3/9/2025 7:50:42 PM 172.20.0.1 GET /assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Ionicons.6148e7019854f3bde85b633cb88f3c25.ttf
+ HTTP  3/9/2025 7:50:42 PM 172.20.0.1 Returned 200 in 3 ms
+ HTTP  3/9/2025 7:53:55 PM 172.20.0.1 GET /
+ HTTP  3/9/2025 7:53:55 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/9/2025 7:53:56 PM 172.20.0.1 GET /_expo/static/js/web/index-c58b7c879ddb68ac4e87b3609e7a9467.js
+ HTTP  3/9/2025 7:53:56 PM 172.20.0.1 Returned 200 in 6 ms
+ HTTP  3/9/2025 7:53:56 PM 172.20.0.1 GET /assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Ionicons.6148e7019854f3bde85b633cb88f3c25.ttf
+ HTTP  3/9/2025 7:53:56 PM 172.20.0.1 Returned 200 in 2 ms
